@@ -1,11 +1,13 @@
 import React from 'react'
-import Birthday from './Birthday'
+// import Birthday from './Birthday/index'
+import Slider from './SliderProject/index'
 
 const App = () => {
  
   return (
     <div>
-      <Birthday/>
+      {/* <Birthday /> */}
+      <Slider />
     </div>
   )
 }
